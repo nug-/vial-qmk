@@ -1,5 +1,7 @@
 # Quantum Mechanical Keyboard Firmware
 
+## This is an outdated version of Vial QMK firmware which supports Matrix IM+.
+
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
 [![Discord](https://img.shields.io/discord/440868230475677696.svg)](https://discord.gg/Uq7gcHh)
 [![Docs Status](https://img.shields.io/badge/docs-ready-orange.svg)](https://docs.qmk.fm)
