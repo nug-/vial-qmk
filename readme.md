@@ -6,6 +6,7 @@
 
 ```
 git clone https://github.com/nug-/vial-qmk.git
+cd vial-qmk
 git submodule init
 git submodule update
 make git-submodule
