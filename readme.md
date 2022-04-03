@@ -2,7 +2,7 @@
 
 ## This is an outdated version of Vial QMK firmware which supports Matrix IM+ only!
 
-# How to build
+## How to build
 
 ```
 git clone https://github.com/nug-/vial-qmk.git
